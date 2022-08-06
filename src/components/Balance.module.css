@@ -1,0 +1,28 @@
+.balance {
+    color: #fff;
+    padding: 2rem;
+    background-color: hsl(10, 79%, 65%);
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    width: 40rem;
+    margin: 0 auto;
+}
+
+.balance__title {
+    font-size: 1.5rem;
+    opacity: 0.8;
+    margin-bottom: 1rem;
+}
+
+.balance__amount {
+    font-size: 2.4rem;
+    font-weight: 700;
+
+}
+
+.balance__icon {
+    width: 6rem;
+}
