@@ -17,7 +17,7 @@ This is my solution to the [Expenses chart component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./Screenshot.jpg)
+![](./Screenshot.png)
 
 
 ### Links
